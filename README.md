@@ -2,5 +2,5 @@
 nur-readme
 web
 test
-nelly browser
+nelly
 html
