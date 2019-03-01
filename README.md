@@ -2,4 +2,4 @@
 nur-readme
 web
 test
-nelly
+nelly browser
